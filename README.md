@@ -1,0 +1,2 @@
+# streamingsolutions
+Kafka - java - scala
